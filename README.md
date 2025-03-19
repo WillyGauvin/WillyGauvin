@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Will, I'm a Game Developer studying Game Development at Algonquin College.
-- 🔭 I’m currently working on [Postal Apocalypse](https://pixelparcel.wixsite.com/home)
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on [Postal Apocalypse](https://pixelparcel.wixsite.com/home), creating fun vehicle systems.
+- 🌱 I recently finished programming my portfolio website showcasing my career in game development, check it out [here](willgauvin.com)
 <!--
 **WillyGauvin/WillyGauvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
