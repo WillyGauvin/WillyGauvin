@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Will, I'm a Game Developer and recent graduate from Algonquin College's Game Development program with a specialty in programming
-- 🔭 My most recent title [Hot Reload](https://willygauvin.itch.io/hotreload){:target="_blank"}
+- 🔭 My most recent title **[Hot Reload](https://willygauvin.itch.io/hotreload)**
 - 🌱 I'm always updating my portfolio website showcasing my career in game development, check it out [here](https://willgauvin.com)
 <!--
 **WillyGauvin/WillyGauvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
